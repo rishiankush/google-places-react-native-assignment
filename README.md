@@ -200,4 +200,4 @@ app/
 
 ## 📮 Contact / Issues
 
-Feel free to open an issue or reach out via GitHub if you encounter any problems!
+Feel free to open an issue or reach out via GitHub or email: ankushrishi5@gmail.com if you encounter any problems!
