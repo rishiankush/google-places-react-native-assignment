@@ -10,6 +10,8 @@ This project allows users to:
 - 📱 Persist history using AsyncStorage
 - ♻️ Revisit places from history and refocus the map
 
+Video Link: https://drive.google.com/file/d/1o4Dd0bdXBwyIglkzAtzCZfaDHOdPHj0I/view?usp=sharing
+
 ---
 
 ## 📦 Tech Stack
