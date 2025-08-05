@@ -195,8 +195,6 @@ app/
 ## 🧹 Known Caveats
 
 - Re-running `expo prebuild` will **wipe manual Podfile changes**
-- Requires `eas build` to run Maps API due to native module
-- Hermes + New Architecture is **not supported with `react-native-maps` yet**
 
 ---
 
