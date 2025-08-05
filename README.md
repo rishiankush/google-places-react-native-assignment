@@ -34,11 +34,8 @@ cd GooglePlacesApp
 ### 2. Install Dependencies
 
 ```bash
-pnpm install
+npm install
 ```
-
-> ✅ Make sure you have `pnpm` installed: `npm install -g pnpm`
-
 ---
 
 ## 🔐 Configuration
@@ -154,7 +151,7 @@ Then open the app on your **device or simulator** that has the dev build install
 
 ---
 
-> ✅ All options assume you've done `pnpm install` and built dev clients (if needed).
+> ✅ All options assume you've done `npm install` and built dev clients (if needed).
 
 ---
 
