@@ -12,9 +12,11 @@ This project allows users to:
 
 Video Link: https://drive.google.com/file/d/1o4Dd0bdXBwyIglkzAtzCZfaDHOdPHj0I/view?usp=sharing
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 13 52 35" src="https://github.com/user-attachments/assets/929d4a9c-5ead-4216-a85c-7de57ffd967e" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 13 52 02" src="https://github.com/user-attachments/assets/7a989b06-aa99-4529-a92b-592034d5fbd5" />
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 13 51 39" src="https://github.com/user-attachments/assets/2850cea3-0b3e-452b-92ff-6452c1313330" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/929d4a9c-5ead-4216-a85c-7de57ffd967e" alt="screenshot1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7a989b06-aa99-4529-a92b-592034d5fbd5" alt="screenshot2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/2850cea3-0b3e-452b-92ff-6452c1313330" alt="screenshot3" width="30%" />
+</p>
 
 ---
 
