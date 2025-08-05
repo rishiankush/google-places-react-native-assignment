@@ -13,17 +13,38 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.GooglePlacesApp",
+      "config": {
+        "googleMapsApiKey":  "AIzaSyCrtJPtB-oVcQSi4vlEk70ZN0P4f-lzNHA"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "config": {
+          "googleMaps": {
+            "apiKey": "process.env.GOOGLE_MAPS_API_KEY"
+          }
+        }
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.GooglePlacesApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      [
+        "react-native-maps",
+        {
+          "config": {
+            "iosGoogleMapsApiKey": "AIzaSyCrtJPtB-oVcQSi4vlEk70ZN0P4f-lzNHA",
+            "androidGoogleMapsApiKey": "AIzaSyCrtJPtB-oVcQSi4vlEk70ZN0P4f-lzNHA"
+          }
+        }
+      ]
+    ]
   }
 }
